@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Snake game</title>
+  <!--Files javscript and css Added-->
+  <script type="text/javascript" src="./Javascript/jquery-3.3.1.js"></script>
+  <link rel="stylesheet" href="./css/Snake.css">
+  <script src="./Javascript/Snake.js"></script>
+
+ </head>
+ <body>
+	<!--**Main Conatiner Of Snake Game Starts**-->
+
+	<div class="container">
+		<h1 class="Heading">Snake Game</h1>
+		<div  id="playArea">
+			
+		</div><!--Play Area div Ends Here-->
+	
+		<input class="btn" value="Start Game" type="button" onclick="snakeObj.start_Snake_Game();">
+		<!--Score Table -->
+		<div class="Score_Div">
+			<p id="Score">Score</p>
+			<p id="Score_val"></p>
+			<p id="Win"></p>
+		</div>		
+		<div class="clear"></div>
+
+	
+	
+	</div><!--COntainer Ends-->
+	
+	<div class="overlaywindow" onclick="snakeObj.overlayStop();"></div>
+	<div class="popupbox" id="Error"></div>
+
+ </body>
+</html>

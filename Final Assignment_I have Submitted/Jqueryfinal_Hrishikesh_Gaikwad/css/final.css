@@ -1,0 +1,91 @@
+body{margin:0;padding:0;font-family:initial}
+h1,h2,ul,li,p{margin:0;padding:0}
+.wrapper{width:1400px;margin:0 auto;}
+.Header{border:1px solid black;padding:20px;background-image:url("../images/Hrishikesh1.png");}
+.headerDiv{padding:10px}
+li{float:left;margin:33px 9px}
+.clr{clear:both}
+a{text-decoration:none;color:#fff}
+ul{list-style-type:none;float:right;padding:0 50px}
+.BackIcon{background-image:url("../images/house.png");position:absolute;margin-left:-16px;margin-top:14px;background-repeat:no-repeat;height:34px;width:35px}
+.AboutusIcon{background-image:url("../images/about_us.png");position:absolute;margin-left:-16px;margin-top:14px;background-repeat:no-repeat;height:34px;width:35px}
+.Services{background-image:url("../images/Services.png");position:absolute;margin-left:-16px;margin-top:14px;background-repeat:no-repeat;height:34px;width:35px}
+.krishImg{margin-top:26px}
+.Banner{background-image:url("../images/FinalBannerBg.jpg");background-repeat:no-repeat;text-align:center;color:#fff;padding:120px;}
+h1{text-transform:uppercase;color:#fff;font-size:64px}
+.open{color:#fff;font-size:30px}
+.open1{position:absolute;margin-left:-255px;margin-top:3px}
+.open2{position:absolute;margin-left:197px;margin-top:-49px}
+.open3{font-size:50px;position:absolute;margin-left:-190px;margin-top:10px}
+.last_font{position:relative;margin-left:357px}
+.open4{position:absolute;margin-top:-13px;margin-left:292px}
+.green{color:green}
+.color{color:#2b2727}
+.container{padding:30px 123px;box-sizing:border-box;overflow:hidden;}
+.Box{width:1153px;height:450px;box-sizing:border-box}
+
+.BOX1{width:278.25px;float:left;box-sizing:border-box;margin-right:13px;overflow:hidden;padding:13px 43px;background-color:#f7ecec;margin-top:10px}
+.BOX2{width:278.25px;float:left;box-sizing:border-box;margin-right:13px;padding:16px 43px;background-color:#f7ecec;margin-top:10px}
+.BOX3{width:278.25px;float:left;box-sizing:border-box;margin-right:13px;padding:16px 43px;background-color:#f7ecec;margin-top:10px}
+.BOX4{width:278.25px;float:left;box-sizing:border-box;padding:16px 43px;background-color:#f7ecec;margin-top:10px}
+.Strong{font-size:50px;background-color:green;padding:0 12px;border-radius:44px;color:#fff;float:left;}
+.h2{float:right}
+.readmore{color:green;border-bottom:1px solid green;font-style:italic}
+.Welcome{margin-top:10px}
+
+.First_Div{width:859px;float:left;margin:0 12.5px 40px 0;box-sizing:border-box;background-color:#f7ecec;padding:2px 28px 0 31px;}
+.text{border-bottom-style:inset;border-bottom-width:thin;padding:15px}
+.para{width:560px;float:left;margin:11px;font-style:italic;font-variant:contextual}
+.smileImg{float:left;margin-top:10px}
+.testomonials{width:278.25px;float:left;box-sizing:border-box;background-color:#f7ecec;padding:0 30px 30px 30px;overflow:hidden}
+.blurr{border-style:groove;height:100px;margin:12px 0;background-color:#eaeae2;text-align:center }
+.para1{font-style:italic;font-variant:contextual;text-align:center;padding:10px}
+.BoxPara{font-style:italic;font-variant:contextual}
+.Amitpara{margin:15px 9px}
+.DownArrow{background-image:url("../images/DownArrow.png");position:absolute;margin-left:172px;margin-top:-14px;background-repeat:no-repeat;height:34px;width:35px}
+.DownArrow2{background-image:url("../images/DownArrow.png");position:absolute;margin-left:205px;margin-top:-14px;background-repeat:no-repeat;height:34px;width:35px}
+.footer{border:1px solid;padding:34px 123px;}
+.FooterH2{color:#fff;border-bottom:1px solid #2b2727;padding:10px}
+.color{background-image:url("../images/Hrishikesh1.png")}
+.FooterH3{color:#2b2727;border-bottom:1px solid #2b2727;padding:10px}
+.SideArrow{background-image:url("../images/SideArrrow.png");background-repeat:no-repeat;height:20px;width:20px;position:absolute;margin-left:-21px;margin-top:30px}
+.FooterH4{color:#fff;border-bottom:1px solid #fff;padding:2px}
+.Facebook{background-image:url("../images/Facebook.png");background-repeat:no-repeat;height:28px;width:25px;position:absolute;margin-left:98px;margin-top:-52px}
+.Twitter{background-image:url("../images/Twitter.png");background-repeat:no-repeat;height:28px;width:25px;position:absolute;margin-left:98px;margin-top:-50px}
+.Google{background-image:url("../images/Google.png");background-repeat:no-repeat;height:28px;width:25px;position:absolute;margin-left:98px;margin-top:-50px}
+a:hover {color:green !important}
+.Black_Div{height:100px}
+.LastWalaPart{text-align:center;height:150px;padding:70px 0 0 0}
+.span{color:#2b2727;border-bottom:1px solid #2b2727;padding:10px;}
+.LastLink{border-bottom:1px solid white;color:#fff;position:absolute;margin-top:47px;margin-left:-148px}
+.LastLink1{border-bottom:1px solid white;color:#fff;position:absolute;margin-top:26px;margin-left:365px}
+a:hover .color{color:#fff}
+.LastDiv{padding:10px 0 30px 0;background-color:black}
+//.Registerdiv{border:1px solid red}
+
+/*RegisterPage and login page css*/
+body {font-family: Arial, Helvetica, sans-serif;background-color: black;}
+*{box-sizing: border-box;}
+p{padding:5px;margin:0}
+.container1{padding: 16px 0px 0px 16px;background-color:white;position:fixed;top:50px;left:0px;right:0px;margin:0 auto;width:700px;border-radius:15px;display:none}
+input[type=text], input[type=password]{width: 60%;padding: 15px;margin: 5px 0 22px 0;display: inline-block;border: none;background: #f1f1f1;}
+input[type=text]:focus, input[type=password]:focus{background-color: #ddd;outline: none;}
+hr {border: 1px solid #f1f1f1;margin-bottom: 25px;}
+.registerbtn{background-color: #4CAF50;color: white;padding: 16px 20px;margin: 8px 0;border: none;cursor: pointer;width: 100%;opacity: 0.9;}
+.registerbtn1{background-color: red;color: white;padding: 16px 20px;margin: 8px 0;border: none;cursor: pointer;width: 100%;opacity: 0.9;}
+.registerbtn:hover{opacity: 1;}
+.registerbtn1:hover{opacity: 1;}
+.City{width:279px;height:40px;padding:10px 0 10px 102px;margin-bottom:10px}
+.DisplayDiv{width:700px;background-color:white;display:none;font-size:20px;border-radius:13px}
+.clr{clear:both}
+.form{margin:0 auto;}
+.Span{font-size:15px}
+.displaySpan{margin-left:10px;color:green}
+.Display{position:fixed;top:50px;left:0px;right:0px;margin:0 auto}
+.DisplayDiv1{width:700px;background-color:white;display:none;font-size:20px;border-radius:13px}
+.Heading1{color:black}
+.cross{background-image:url("../images/error.png");background-repeat:no-repeat;height:64px;width:64px;position:absolute;right:-15px;top:-14px;}
+
+.over{position:fixed;bottom:0px;right:0px;height:100%;width:100%;opacity:0.7;display:none;overflow:hidden;background-color:black}
+.formHeight{height:800px;overflow-x:scroll}
+.container2{padding:16px 0px 0px 16px;background-color:white;position:fixed;top:50px;left:0px;right:0px;margin:0 auto;width:700px;border-radius:15px;display:none}
